@@ -1,1 +1,2 @@
-# BT-Developer-Community-
+# BT-Developer-Community
+Collaborative and Creative
